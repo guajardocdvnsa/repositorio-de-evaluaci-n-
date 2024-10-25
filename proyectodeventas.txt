@@ -1,0 +1,5 @@
+El proyecto de ventas en PHP consistirá en una aplicación web que permita a los usuarios registrarse y crear perfiles para comprar productos directamente de los proveedores.
+
+La aplicación contará con un sistema de gestión de usuarios y productos, donde los administradores podrán agregar, editar o eliminar artículos, y los usuarios podrán realizar búsquedas filtradas y añadir productos a su carrito de compras.
+
+Finalmente, se implementará un sistema de pagos utilizando una API de terceros, que permita a los usuarios realizar transacciones de manera segura y recibir confirmaciones por correo electrónico
