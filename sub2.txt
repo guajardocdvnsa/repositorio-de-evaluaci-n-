@@ -1,0 +1,44 @@
+1- lenguaje php:
+se explica lo que es el lenguaje php 
+actividad:
+* Escribe tu Nombre y tus apellidos separados por saltos de línea
+* Escribe tu fecha de nacimiento usando el formato DD – MMM – AAAA
+* Escribe una lista de 5 gustos personales
+
+2- creando primer programa en php:
+hicimos nuestro primer codigo en php usando el famoso "hola mundo"
+actividad:
+-Modifica este programa para que muestre una serie de mensajes en la página empleando el comando echo. Tenga en cuenta que cuando utiliza el comando echo el mensaje se debe encerrar entre comillas dobles (también puede usarse apóstrofes).
+
+-Mi nombre es
+-Mi edad es
+-Mi hobbie es
+-El profe que me cae mal es:
+-El/la que me gusta es:
+
+3- variables en php:
+se nos dio a conocer como gracxias a las variables un programa es mas util y se consideran variables cuando antes de escribir su nombre se le agrega el signo "$"
+actividad
+- Primer reto: Crea un programa que use dos números. Crea dos variables X y Y donde guardaras dos números enteros, el 7 y el 5. Después, muestra la suma de estos números, luego la resta, luego la multiplicación y por último la división.
+
+- Segundo reto: Crea un programa que use dos cadenas de texto. Crea dos variables NOMBRE y APELLIDO donde guardará tu nombre y tu apellido. Después, muestra el nombre completo con un espacio en blanco.
+
+4- estructura condicional (if)
+se nos enseño la estructura de la funcion if en php la cual es una condicion
+
+5- estructuras repetitivas (for, while y Do while)
+El primer argumento del for es la inicialización de una variable, en este caso se inicializa la variable $i con el valor 1. Este primer argumento del for se ejecuta solo una vez.
+Luego se ejecuta el segundo argumento que es la condición. Si la misma se verifica como verdadera se ejecuta todo el bloque comprendido entre las llaves de apertura y cerrado.
+Luego de haberse ejecutado el bloque repetitivo se ejecuta el tercer argumento del for que es el incremento de la variable, en este caso $i++ incrementa el contenido de la variable $i en 1 (también podemos poner en lugar de $i++ la asignación $i=$i+1).
+
+6- que son los arrays
+Un array puede ser creado con el constructor del lenguaje array(). Éste toma cualquier número de parejas clave => valor como argumentos.
+
+array (clave => valor, clave2 => valor2, clave3 => valor3, …)
+
+7- agregar elementos a los arrays
+PHP implode(): Convierte un array en una cadena de texto.
+PHP explode(): Convierte un string en un array.
+PHP foreach(): Función para recorrer arrays.
+PHP unset(): Elimina elementos de un array.
+PHP count(): Cuanta la longitud o el número de elementos en un array.
